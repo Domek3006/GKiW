@@ -1,0 +1,12 @@
+esc - exit
+w - camera forward / aim up
+s - camera back / aim down
+a - camera left
+d - camera right
+o - zoom in
+p - zoom out
+m - worm camera
+n - free camera
+up - move forward
+left / right - rotate worm
+v - charge shot
